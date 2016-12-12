@@ -1,0 +1,7 @@
+function sayHello(name)
+{
+  var x = Math.floor(Math.random() * 15) + 6  
+   console.log('Name GeneratedNumber is :' +name+x);
+}
+
+sayHello("arif");
